@@ -1,3 +1,4 @@
+<!--
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,62 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+-->
+
+# Game store
+
+A full-stack game store website
+Allows users to view and buy games.
+
+<!-- add home page screenshot-->
+
+## Index
+
+- [Tech stack](#tech-stack)
+- [Features](#features)
+- - [to-do](#to-do)
+- - [doing](#doing)
+- - [done](#done)
+- [Contributions](#contributions)
+- [Installation](#installation)
+- [Socials](#socials)
+
+## tech-stack
+
+- html
+- css
+- tailwind css
+- react
+
+## Features
+
+### to-do
+
+- discover
+- search
+- login / signup
+- single game
+- news
+- backend
+
+### doing
+
+- home page
+
+### done
+
+## Contributions
+
+not allowed (yet)
+
+## Installation
+
+cd into the project folder
+run the following command to install all the needed packages and run the app
+
+```
+npm i
+npm run start
+```
+
+## Socials
